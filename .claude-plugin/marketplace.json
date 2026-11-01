@@ -1,0 +1,12 @@
+{
+  "name": "athos",
+  "owner": { "name": "athos-agent", "url": "https://github.com/athos-agent" },
+  "metadata": { "description": "Athos keeps your AI know-how yours: free to move between agents, fast to run." },
+  "plugins": [
+    {
+      "name": "athos", "source": "./", "category": "productivity",
+      "version": "0.1.88",
+      "description": "Keeps how you work with AI as markdown files you own, improves them as you go, and loads only what each task needs."
+    }
+  ]
+}
